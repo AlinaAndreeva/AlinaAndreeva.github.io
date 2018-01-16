@@ -1,0 +1,35 @@
+﻿html{
+    width: 100%;
+    
+}
+body {
+    font: 16px/24px 'Roboto', sans-serif;
+    background-color: #FFF8DC;
+    color: #000;
+    padding: 50px;
+}
+
+
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+.upperCase{
+    text-transform: uppercase;
+}
+.personal-info{
+    width: 70%;
+}
+.personal-photo{
+    width: 30%;
+}
+.personal-photo img{
+    padding-top: 85px;
+    width:100%;
+}
+h1{
+    text-align: center;
+    margin-bottom: 40px;
+}
