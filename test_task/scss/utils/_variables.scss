@@ -1,0 +1,26 @@
+/* reset */
+$min-width: 320px; 
+$max-width: 1440px;
+$base-bg: #FFF; 
+$base-font-size: 15px;
+$base-line-height: 18px; 
+$base-font-family: 'Open Sans', sans-serif;
+$custom-font-family: 'Open Sans', sans-serif; 
+$span-font-family: 'Open Sans', sans-serif;
+$link-color: #cb944c;
+$default-transition:all 0.2s linear;
+
+/* main variables */
+
+//text, titles
+$text-color: #666666;
+$title-color: #171717;
+$title-font-family: $custom-font-family;
+
+$font-size-h1: 42px;
+$line-height-h1: 47px;
+$font-size-h2: 23px;
+$line-height-h2: 37px;
+$font-size-h3: 16px;
+$line-height-h3: 25px;
+$font-size-span: 14px;
